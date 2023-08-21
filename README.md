@@ -8,8 +8,8 @@
 
 2. 로컬에서 수정 후
 
-    'git add .'
+    `git add .`
 
-    'git commit -m "message"
+    `git commit -m "message"`
 
-    'git push origin main"
+    `git push origin "main"`
